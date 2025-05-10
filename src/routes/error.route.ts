@@ -1,5 +1,5 @@
-import Error404Page from "../pages/error/error-404-page";
-import { RouteRootInterface } from "./route.types";
+import Error404Page from "@/pages/error/error-404-page";
+import { RouteRootInterface } from "./route.config";
 
 const errorRoutes: RouteRootInterface[] = [
   {
